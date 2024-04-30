@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streamCipher", "ПАСЗИ_ЛР1\streamCipher.csproj", "{2135B609-B81D-4F62-B3F9-BC9E3F8E0601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2135B609-B81D-4F62-B3F9-BC9E3F8E0601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2135B609-B81D-4F62-B3F9-BC9E3F8E0601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2135B609-B81D-4F62-B3F9-BC9E3F8E0601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2135B609-B81D-4F62-B3F9-BC9E3F8E0601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A5F238-D9EB-4DDD-821F-B3D92A0C613D}
+	EndGlobalSection
+EndGlobal
